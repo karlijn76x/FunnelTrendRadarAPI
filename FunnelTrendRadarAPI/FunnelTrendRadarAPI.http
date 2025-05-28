@@ -1,0 +1,6 @@
+@FunnelTrendRadarAPI_HostAddress = http://localhost:5226
+
+GET {{FunnelTrendRadarAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
